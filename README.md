@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PravallikaReddy107
+- 👋 Hi, I’m @PravallikaReddy107 from NCSU
 - 👀 I’m interested in ...Computer Networking, Data Center, and Cloud
 - 🌱 I’m currently learning ...CCNP, Github
 - 💞️ I’m looking to collaborate on ...Networking related projects
